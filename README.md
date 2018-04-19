@@ -1,2 +1,2 @@
 # monte-carlo-linear-system
-Solve linear system with Monte Carlo method.
+Solve linear system `x = Ax + f` with Monte Carlo method.
